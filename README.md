@@ -1,7 +1,7 @@
-- 👋 Hello, I’m CODING-Enthusiast9857 !!
-- 👀 I’m interested in designing responsive websites and apps.
-- 🌱 I’m undergraduate student.
-- 💞️ I’m looking to collaborate on developing new applications.
+- Hello 👋, I’m CODING-Enthusiast9857 !!
+- I’m interested in designing responsive websites and apps.
+- I’m undergraduate student.
+- I’m looking to collaborate on developing new applications.
 
 
 <!---
