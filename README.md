@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Madhavi Sonawane</h1>
-<h3 align="center">Developer | Coder | Learner</h3>
+<h3 align="center">Undergraduate Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coding-enthusiast9857&label=Profile%20views&color=0e75b6&style=flat" alt="coding-enthusiast9857" /> </p>
 
