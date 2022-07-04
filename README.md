@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋, I'm Madhavi Sonawane</h1>
 <h3 align="center">I'm Undergraduate Engineering Student</h3>
 
+<img align="right" alt="Coding" width="400"
+src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coding-enthusiast9857&label=Profile%20views&color=0e75b6&style=flat" alt="coding-enthusiast9857" /> </p>
 
 - 💻 I’m looking to collaborate on **software based projects**
