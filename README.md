@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coding-enthusiast9857&label=Profile%20views&color=0e75b6&style=flat" alt="coding-enthusiast9857" /> </p>
 
-- 👯 I’m looking to collaborate on **software based projects**
+- 💻 I’m looking to collaborate on **software based projects**
 
 - 👨‍💻 You can also connect with me using [https://github.com/CODING-Enthusiast9857]
 
