@@ -32,4 +32,4 @@ src="https://purpletutor.com/wp-content/uploads/2020/12/purple-tutor11.svg">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coding-enthusiast9857&show_icons=true&locale=en&layout=compact" alt="coding-enthusiast9857" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coding-enthusiast9857&show_icons=true&locale=en" alt="coding-enthusiast9857" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=coding-enthusiast9857&show_icons=true&locale=en" alt="coding-enthusiast9857" /></p>
