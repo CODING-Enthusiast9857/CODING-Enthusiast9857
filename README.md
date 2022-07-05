@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Madhavi Sonawane !!</h1>
-<h3 align="center">I'm Undergraduate Engineering Student</h3>
+<h3 align="center">I'm undergraduate Computer Engineering Student</h3>
 
 <!--img align="right" alt="Coding" width="400"
 src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/-->
