@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, <br> I'm Madhavi Sonawane !!</h1>
-<h3 align="center">I'm undergraduate Computer Engineering Student from India</h3>
+<h3 align="center">I'm an undergraduate Computer Engineering Student from India</h3>
 
 <img align="right" alt="CODING" width="400" height="350"
 src="https://purpletutor.com/wp-content/uploads/2020/12/purple-tutor11.svg">
