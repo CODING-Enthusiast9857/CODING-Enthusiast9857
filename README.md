@@ -4,6 +4,10 @@
 <img align="right" alt="CODING" width="400" height="350"
 src="https://purpletutor.com/wp-content/uploads/2020/12/purple-tutor11.svg">
 
+<h3 align="left">About me:</h3>
+
+- 👩🏻 I am **self-taught programmer, passionate learner**. I am always passionate about learning various skills.
+
 - 👨‍💻 You can also connect with me using [https://github.com/CODING-Enthusiast9857]
 
 - 🌱 I’m currently learning **Frontend development languages such as AngularJS, React, etc**
