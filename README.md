@@ -1,12 +1,12 @@
 <h1 align="center">Hey Everyone 👋, <br> I'm Madhavi Sonawane !!</h1>
 <h3 align="center">I'm an undergraduate Computer Engineering Student from India</h3>
 
-<img align="right" alt="CODING" width="400" height="350"
+<img align="right" alt="CODING" width="400" height="500"
 src="https://purpletutor.com/wp-content/uploads/2020/12/purple-tutor11.svg">
 
 <h3 align="left">About me:</h3>
 
-- 👩🏻 I am **self-taught programmer, passionate learner**. I am always passionate about learning various skills.
+- 👩🏻 I am **self-taught programmer and passionate learner**. I am always passionate about learning new skills.
 
 - 👨‍💻 You can also connect with me using [https://github.com/CODING-Enthusiast9857]
 
