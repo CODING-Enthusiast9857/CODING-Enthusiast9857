@@ -8,7 +8,7 @@ src="https://purpletutor.com/wp-content/uploads/2020/12/purple-tutor11.svg">
 
 - 👩🏻 I am **self-taught programmer and passionate learner**. I am always passionate about learning new skills.
 
-- 👨‍💻 You can also connect with me using [https://github.com/CODING-Enthusiast9857]
+- 👨‍💻 You can also connect with me using https://github.com/CODING-Enthusiast9857
 
 - 💻 I'm interested in **Full stack development** and **Android application development**
 
