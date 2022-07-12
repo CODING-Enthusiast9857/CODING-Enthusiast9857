@@ -6,7 +6,7 @@ src="https://purpletutor.com/wp-content/uploads/2020/12/purple-tutor11.svg">
 
 <h3 align="left">About me:</h3>
 
-- 👩🏻 I am **self-taught programmer and passionate learner**. The passionate learner who always eager to learn new skills.
+- 👩🏻 I am **self-taught programmer and passionate learner** who always eager to learn new skills.
 
 - 👨‍💻 You can also connect with me using https://github.com/CODING-Enthusiast9857
 
