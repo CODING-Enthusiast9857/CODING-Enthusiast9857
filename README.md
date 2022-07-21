@@ -4,6 +4,7 @@
 <img align="right" alt="CODING" width="380" height="500"
 src="https://purpletutor.com/wp-content/uploads/2020/12/purple-tutor11.svg">
 
+<h3 align="left">About me:</h3>
 
 - 👩🏻 I am **self-taught programmer** and **passionate learner** who always eager to learn new skills.
 
