@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, <br> I'm Madhavi Sonawa !!</h1>
+<h1 align="center">Hey Everyone 👋, <br> I'm Madhavi Sonawane !!</h1>
 <h3 align="center">I'm an undergraduate Computer Engineering Student</h3>
 
 <img align="right" alt="CODING" width="380" height="500"
