@@ -28,7 +28,7 @@ src="https://purpletutor.com/wp-content/uploads/2020/12/purple-tutor11.svg">
 <a href="https://www.hackerrank.com/madhavison06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@madhavison06" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/madhavi98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madhavi98" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/madhavison06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="madhavison06" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@madhavison06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@madhavison06" height="30" width="40"/></a>
+<!--a href="https://www.hackerearth.com/@madhavison06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@madhavison06" height="30" width="40"/></a-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
