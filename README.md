@@ -12,7 +12,7 @@ src="https://purpletutor.com/wp-content/uploads/2020/12/purple-tutor11.svg">
 
 - 💻 I'm interested in **Full stack development, Android application development, Software development, etc**
 
-- 🌱 I’m currently learning **Frontend development languages such as AngularJS, React, etc**
+<!--p - 🌱 I’m currently learning **Frontend development languages such as AngularJS, React, etc**></p-->
 
 - 🕵️‍♀️ I’m looking to collaborate on **various software based projects**
 
