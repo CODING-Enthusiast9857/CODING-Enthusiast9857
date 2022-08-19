@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, <br> I'm Madhavi Sonawane !!</h1>
+<h1 align="center">Hey Everyone 👋,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> <br> I'm Madhavi Sonawane !!</h1>
 <h3 align="center">I'm an Undergraduate Computer Engineering Student</h3>
 
 <img align="right" alt="CODING" width="380" height="500"
