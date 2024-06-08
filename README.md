@@ -17,7 +17,7 @@ src="https://purpletutor.com/wp-content/uploads/2020/12/purple-tutor11.svg">
 
 - 🕵️‍♀️ I’m looking to collaborate on **various software based projects**
 
-- 👨‍💻 All of my projects are available at [CODING-Enthusiast9857](CODING-Enthusiast9857)
+- 👨‍💻 All of my projects are available at [CODING-Enthusiast9857](https://github.com/CODING-Enthusiast9857?tab=repositories)
 
 - 👉 You can find my **Machine Learning** related projects at [Kaggle](https://www.kaggle.com/madhavisonawane9857)
 
